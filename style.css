@@ -18,7 +18,8 @@ header {
 }
 
 .header-text {
-    width: 40%;
+    width: 45%;
+    padding-left: 60px;
 }
 
 .header-text h1 {
@@ -49,6 +50,7 @@ button {
 
 .header-img {
     width: 40%;
+    padding-left: 40px;
 }
 
 .header-img img {
